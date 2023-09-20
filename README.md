@@ -1,1 +1,1 @@
-# qlub
+qlub automation and manuel test cases
